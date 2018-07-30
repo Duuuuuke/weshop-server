@@ -3,7 +3,7 @@ const isDev = think.env === 'development';
 module.exports = {
   handle: mysql,
   database: 'wetrip',
-  prefix: 'wetrip_',
+  prefix: 'nideshop_',
   encoding: 'utf8mb4',
   host: isDev ? '127.0.0.1' : 'obbedutnxoxu.mysql.sae.sina.com.cn',
   port: isDev ? '3306' : '10215',
