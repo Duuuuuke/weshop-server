@@ -8,6 +8,6 @@ module.exports = {
   host: isDev ? '127.0.0.1' : 'obbedutnxoxu.mysql.sae.sina.com.cn',
   port: isDev ? '3306' : '10215',
   user: isDev ? 'root' : 'wetrip',
-  password: isDev ? 'Zcm199335' : '',
+  password: isDev ? 'Zcm199335' : 'Zcm199335',
   dateStrings: true
 };
